@@ -40,6 +40,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://albert-ricart.jimdosite.com"><img src="https://img.shields.io/badge/-albert-ricart.jimdosite.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://albert-ricart.jimdosite.com"><img src="https://img.shields.io/badge/-albertricart-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/albert-ricart"><img src="https://img.shields.io/badge/-Albert%20Ricart-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:albert.ricartt@gmail.com"><img src="https://img.shields.io/badge/-albert.ricartt@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
