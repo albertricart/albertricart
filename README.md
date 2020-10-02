@@ -11,10 +11,10 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=e57110)
+  ![C#](https://img.shields.io/badge/-C-333333?style=flat&logo=c-sharp&logoColor=9757cf)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logoColor=9757cf)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=35baf6)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
